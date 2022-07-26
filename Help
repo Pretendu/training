@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<body>
-<title>Training</title>
+<title>Index</title>
 </head>
-<p>Need Help</p>
+<body>
+<p>Help</p>
 <ul>
-<li><a href="index.html">index</a></li>
-<li><a href="home.html">Welcome Home</a></li>
+<li><a href="index.html">Index</a></li>
+<li><a href="home.html">Home</a></li>
 </ul>
 </body>
 </html>
