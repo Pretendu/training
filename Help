@@ -2,6 +2,8 @@
 <html>
 <body>
 <p>Need Help</p>
-<li> <a href="index.html">index</li>
-<li> <a href="home.html">Welcome Home</li>
+<ul>
+<li> <a href="index.html">index</a></li>
+<li> <a href="home.html">Welcome Home</a></li>
+</ul>
 </body>
