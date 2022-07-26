@@ -1,4 +1,4 @@
-<!DocType html>
+<!DOCTYPE html>
 <html>
 <body>
 <p>Welcome Home</p>
@@ -7,3 +7,4 @@
 <li> <a href="help.html">Need Help</a></li>
 </ul>
 </body>
+</html>
