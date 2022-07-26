@@ -1,7 +1,7 @@
 <!DocType html>
 <html>
 <body>
-<p>Welcome Home<p>
+<p>Welcome Home</p>
 <li> <a href="index.html">index</li>
 <li> <a href="help.html">Need Help</li>
 </body>
