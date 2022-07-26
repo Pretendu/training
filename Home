@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Training</title>
+</head>
 <body>
 <p>Welcome Home</p>
-<ul>
-<li> <a href="index.html">index</a></li>
-<li> <a href="help.html">Need Help</a></li>
+</body><ul>
+<li><a href="index.html">index</a></li>
+<li><a href="help.html">Need Help</a></li>
 </ul>
-</body>
 </html>
